@@ -3,7 +3,7 @@
   
     
 
-  create  table "dbt_training"."public_test"."employee_names"
+  create  table "dbt_training"."public_base"."employee_names"
   
   
     as

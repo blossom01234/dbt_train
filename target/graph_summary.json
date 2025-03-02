@@ -1,1 +1,1 @@
-{"_invocation_id": "8943a31a-91c2-4da8-94d6-52305c8cd420", "linked": {"0": {"name": "model.dbt_training.employee_names", "type": "model"}}}
+{"_invocation_id": "e0bd8e02-4217-4101-9602-c159119f3651", "linked": {"0": {"name": "model.dbt_training.employee_names", "type": "model", "succ": [1]}, "1": {"name": "test.dbt_training.not_null_employee_names_employee_id.0744da14ca", "type": "test"}}}
